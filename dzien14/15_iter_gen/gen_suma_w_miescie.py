@@ -1,6 +1,6 @@
 from gen_sprzedaz import Transakcja
 
-miasto = 'Katowice'
+miasto = 'Radom'
 suma = 0
 
 for rekord in Transakcja.wczytaj_plik_gen('sprzedaz.csv'):
