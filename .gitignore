@@ -1,0 +1,10 @@
+# Ignoruj te katalogi umieszczone bezp. w projekcie
+/venv/
+/.idea/
+
+# Ignoruj katalogi o tych nazwach wszędzie w projekcie
+.pytest_cache/
+__pycache__/
+
+# Ignoruj wszystkie pliki z podanym rozszerzeniem
+*.pyc
